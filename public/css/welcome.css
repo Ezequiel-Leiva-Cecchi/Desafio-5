@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f0f0; 
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #4CAF50; 
+    font-size: 3em; 
+    margin-top: 50px; 
+}
+
+#logoutBtn {
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 1.2em; 
+    cursor: pointer; 
+    border: none; 
+    border-radius: 5px; 
+    margin-top: 20px; 
+}
+
+#logoutBtn:hover {
+    background-color: #45a049; 
+}
